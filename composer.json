@@ -1,5 +1,5 @@
 {
-    "name": "igorsgm/laravel-ghost",
+    "name": "tudisco/laravel-ghost",
     "description": "👻• A Laravel wrapper that allows you to access Ghost APIs (Content & Admin). Access, create and manage your Ghost content from you app!",
     "keywords": [
         "igorsgm",
